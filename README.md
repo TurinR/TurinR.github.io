@@ -1,0 +1,1 @@
+This is the redesign for the Manitoba Mathematical Contest (MMC) as the current website is out of date and could use a bit of 'freshening up.' I'll add more later but I've rebuilt the whole in a glassmorphism UI so it looks prettier. 
