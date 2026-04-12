@@ -578,11 +578,7 @@ nav div {
     .glass-con {
         width: 90vw;
     }
-
-    .nav-center {
-        flex-wrap: wrap;
-    }
-
+    
     .nav-button {
         font-size: 14px;
         padding: 6px 10px;
