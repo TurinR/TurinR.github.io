@@ -60,9 +60,12 @@ body::before {
 
 nav {
 
+    display: flex;
     position: relative;
-    justify-content: center;
+    justify-content: space-between;
+
     box-shadow: 3px 3px 5px rgba(0,0,0,0.1);
+    flex-wrap: wrap;
 
 }
 
@@ -76,6 +79,7 @@ nav a {
     width: 115px;
     height: 25px;
     text-decoration: none;
+    gap: 50px;
 
     display: flex;
     flex-direction: column;
@@ -97,11 +101,13 @@ nav a {
 
 nav ul {
 
-    width: 100%;
-    list-style: none;
-    justify-content: space-between;
+    display: flex;
+    justify-content: center;
     align-items: center;
-
+    gap: 200px;
+    list-style: none;
+    padding: 20px;
+    margin: 0;
 }
 
 nav li {
